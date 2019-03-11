@@ -1,10 +1,7 @@
 
 
 
-
-![img](assets/clip_image002.png) 
-
-
+<p align="center"><img src="assets/clip_image002.png" style="display: block; margin: auto;"/></p>
 
 # **CourseCard**
 
