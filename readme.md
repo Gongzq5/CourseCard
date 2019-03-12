@@ -5,7 +5,9 @@
 
 # **CourseCard**
 
-@cmlapple，@Gongzq5，@FantasticGold
+[@cmlapple](https://github.com/cmlapple)
+[@Gongzq5](https://github.com/Gongzq5)
+[@FantasticGold](https://github.com/FantasticGold)
 
 Android开发课程的小组作业，以上是小组成员的github账号；
 
@@ -41,8 +43,8 @@ CourseCard是一款课程表应用。用户可以通过中大教务系统导入�
 
 # 团队分工
 
-@FantasticGold：设计UI，实现列表显示等基本接口，准备展示材料，整理小组报告
+[@FantasticGold](https://github.com/FantasticGold)：设计UI，实现列表显示等基本接口，准备展示材料，整理小组报告
 
-@Gongzq5：建立数据库，提供数据访问接口，调试应用
+[@Gongzq5](https://github.com/Gongzq5)：建立数据库，提供数据访问接口，调试应用
 
-@cmlapple：获取和更新数据，实现添加课程和课程提醒等功能，调试应用
+[@cmlapple](https://github.com/cmlapple)：获取和更新数据，实现添加课程和课程提醒等功能，调试应用
